@@ -1,4 +1,4 @@
-# MASTER-s-THESIS-Recognition-of-Music-Cover-Versions-using-Music-Information-Retrieval-Techniques
+# MASTER's THESIS: Recognition of Music Cover Versions using Music Information Retrieval Techniques
 
 Using artificial neural networks (convolution and fully conected) for music cover recognotion. This whole work is written in MATLAB (MIRtoolbox) and Python (Keras, TensorFlow). There is 1 datasets used as a source for neural networks.
 
