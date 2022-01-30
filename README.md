@@ -23,3 +23,23 @@ This method is inspired by Korean authors. You can read their work here:
 https://www.music-ir.org/mirex/abstracts/2018/LCLL1.pdf
 https://ieeexplore.ieee.org/document/8461395
 https://www.researchgate.net/publication/337005573_Learning_a_Representation_for_Cover_Song_Identification_Using_Convolutional_Neural_Network
+
+## MATLAB and Python requirements
+
+This work was build with MATLAB 2016a and Python 3.6.
+
+### Matlab
+ - MIRtoolbox 1.7
+ - Chroma Toolbox
+ - mRMR function (you must compile this toolbox for your system .mex files)
+ - cell2csv
+ - pca
+
+### Python
+ - NumPy
+ - TenosFlow 2.6
+ - scipi
+ - h5py
+ 
+ ## Dataset
+ 
