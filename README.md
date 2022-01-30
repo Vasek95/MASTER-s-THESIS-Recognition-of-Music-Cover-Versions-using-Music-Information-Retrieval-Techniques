@@ -65,3 +65,7 @@ Each music genre contains 20 original songs. For each original song was 5 cover 
 The dataset is too big for uploading on the github or on the interner. Here is link for google disk where is files that contains names of the songs in the dataset: https://docs.google.com/spreadsheets/d/1DySmCE8FBA_urazBxR_ycJTGkRkg5442hzWAmqtspWQ/edit?usp=sharing
 
 Every method should have _Link.txt_ file where is written link where you can download parameters which was computated from the dataset. If you want to download the dataset (mp3 files) send me a message.
+
+## How to run each methods
+
+Each methods should have in MATLAB _demo.m_ script. 2nd method used CNN in Python for training and predicting. You can training with _main.py_ For predicting you must run _Testovani.py_. For evaluating 2nd method in MATLAB you must run _Testovani.m_ in Testing folder. 
