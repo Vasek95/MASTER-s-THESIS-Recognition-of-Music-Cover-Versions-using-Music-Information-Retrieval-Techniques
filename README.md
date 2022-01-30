@@ -11,3 +11,6 @@ Using artificial neural networks (convolution and fully conected) for music cove
 - Author: Bc. Václav Martinek
 
 ## METHOD DESCRIPTION
+
+# 1st Method
+This method counts all parametres that MIRtoolbox offer from all songs from the dataset. These parameters are represented by vectors, matrices and scalars. For classification we need only scalars. For this reason we this method used statistic functions (mean, median, var, percentil etc.) for computing scalars from vectors and matrices. On statistisc parameters is used mRMR method for selecting the best parameters. After selecting best_ n _parameters is used neural network (BPNN.m) for clasification.
