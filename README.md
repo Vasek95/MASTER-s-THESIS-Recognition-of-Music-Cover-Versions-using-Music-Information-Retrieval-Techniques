@@ -43,3 +43,20 @@ This work was build with MATLAB 2016a and Python 3.6.
  
  ## Dataset
  
+The dataset is downloaded from Youtube. I used Youtube-DL console app (https://youtube-dl.org/). This app can download top _n_ songs that youtube found for your query.
+
+I divided the dataset into 10 folders. Each folder is for one music genre. So this dataset contains 10 music genres like:
+
+- Pop
+- Rock
+- Disco
+- Blues
+- Folk & Country
+- Hip Hop & Rap
+- Jazz
+- Metal
+- Classic music
+- Reggae
+
+Each music genre contains 20 original songs. For each original song was 5 cover verions.
+
