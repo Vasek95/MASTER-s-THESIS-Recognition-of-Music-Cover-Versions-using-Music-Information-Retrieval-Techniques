@@ -16,4 +16,4 @@ Using artificial neural networks (convolution and fully conected) for music cove
 This method counts all parametres that MIRtoolbox offer from all songs from the dataset. These parameters are represented by vectors, matrices and scalars. For classification we need only scalars. For this reason we this method used statistic functions (mean, median, var, percentil etc.) for computing scalars from vectors and matrices. On statistisc parameters is used mRMR method for selecting the best parameters. After selecting best _n_ parameters is used neural network (BPNN.m) for clasification. There is also method called PCA (pca folder) for visualization selected parameters.
 
 # 2nd Method
-This method use only chromagram parametr. Chromagram is matrix that show us tonal content in time. I used only the first 180 _s_ from each song to compute chromagram. I used 1 _s_ no overlap window, so chromagrams had size (12,180).
+This method use only chromagram parametr. Chromagram is matrix that show us tonal content in time. I used only the first 180 _secund_ from each song to compute chromagram. I used 1 _secund_ no overlap window, so chromagrams had size (12,180).
