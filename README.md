@@ -60,3 +60,8 @@ I divided the dataset into 10 folders. Each folder is for one music genre. So th
 
 Each music genre contains 20 original songs. For each original song was 5 cover verions.
 
+## How to get the DATASET
+
+The dataset is too big for uploading on the github or on the interner. Here is link for google disk where is files that contains names of the songs in the dataset: https://docs.google.com/spreadsheets/d/1DySmCE8FBA_urazBxR_ycJTGkRkg5442hzWAmqtspWQ/edit?usp=sharing
+
+Every method should have _Link.txt_ file where is written link where you can download parameters which was computated from the dataset. If you want to download the dataset (mp3 files) send me a message.
